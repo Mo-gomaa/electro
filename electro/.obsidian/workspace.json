@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "2e52244c69647465",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc183f65d514ed82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f70a759779c17dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lessons I am having trouble with.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "317a82aee84a2a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lessons I am having trouble with.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86ac08af2f0ccb0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lessons I am having trouble with.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d221be1ea18912f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lessons I am having trouble with.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecc7806e5c6b6ae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f1f2174d99e711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c858e5aff651e2ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13951c921040702f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b93434df04a16b41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a2b2d103ed413b99",
+    "type": "split",
+    "children": [
+      {
+        "id": "de0c75001a11c5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "703deb5c3fdd09a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lessons I am having trouble with.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6251c6c2439e06ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lessons I am having trouble with.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7653dfcb9bcfbcf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e74ee791358175e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lessons I am having trouble with.md"
+              }
+            }
+          },
+          {
+            "id": "18c5f97256f7cd8b",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2a6d5d5688fe2d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Copilot Chat": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "d221be1ea18912f9",
+  "lastOpenFiles": [
+    "assets/Pasted image 20240602084717.png",
+    "assets/Pasted image 20240602084545.png",
+    "assets/Pasted image 20240602083545.png",
+    "Norton.md",
+    "Linearity Property.md",
+    "lessons I am having trouble with.md",
+    "Thevinin.md",
+    "Source Transformation.md",
+    "assets/Pasted image 20240602002305.png",
+    "assets/Pasted image 20240602002211.png",
+    "Superposition.md",
+    "Nodal Analysis.md",
+    "assets/Pasted image 20240601232750.png",
+    "assets/Pasted image 20240528000531.png",
+    "Mesh Analysis.md",
+    "Welcome.md",
+    "assets",
+    "zettelkasten summary.md",
+    "assets/Pasted image 20240526165735.png",
+    "bottom-up approach.md",
+    "capturing notes.md",
+    "zettelkasten method.md",
+    "zettelkasten method intro.md",
+    "assets/Pasted image 20240526164344.png",
+    "assets/Pasted image 20240526164133.png",
+    "assets/Pasted image 20240526163928.png",
+    "Untitled 1.md",
+    "Templates/weekly_Note_Template.md",
+    "Templates/Daily_Note_Template.md",
+    "new note.md",
+    "Journal/2024-05-05.md",
+    "Journal/2024-W19.md",
+    "Weekly Journal",
+    "Journal",
+    "Templates/Weekly_Note_Template",
+    "Templates/Daily_Note_Template",
+    "Templates"
+  ]
+}
