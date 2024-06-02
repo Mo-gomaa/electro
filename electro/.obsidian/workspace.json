@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb76b01f667b8cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "use cases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a2b2d103ed413b99",
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lessons I am having trouble with.md",
+                "file": "use cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lessons I am having trouble with.md",
+                "file": "use cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lessons I am having trouble with.md"
+                "file": "use cases.md"
               }
             }
           },
@@ -203,14 +214,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d221be1ea18912f9",
+  "active": "bb76b01f667b8cca",
   "lastOpenFiles": [
+    "lessons I am having trouble with.md",
+    "use cases.md",
     "assets/Pasted image 20240602084717.png",
     "assets/Pasted image 20240602084545.png",
     "assets/Pasted image 20240602083545.png",
     "Norton.md",
     "Linearity Property.md",
-    "lessons I am having trouble with.md",
     "Thevinin.md",
     "Source Transformation.md",
     "assets/Pasted image 20240602002305.png",
@@ -230,7 +242,6 @@
     "zettelkasten method intro.md",
     "assets/Pasted image 20240526164344.png",
     "assets/Pasted image 20240526164133.png",
-    "assets/Pasted image 20240526163928.png",
     "Untitled 1.md",
     "Templates/weekly_Note_Template.md",
     "Templates/Daily_Note_Template.md",
